@@ -1,0 +1,8 @@
+.search-container {
+    width: 500px;
+}
+
+#search-form {
+    display: flex;
+    padding: 50px;
+}
